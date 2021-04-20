@@ -1,0 +1,55 @@
+body {
+    background: linear-gradient(#FF0088 0%, #00EDFF 100%);
+}
+
+#a-title {
+    font-size: 14px;
+}
+
+#sec1-title {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+#h4vid {
+    font-family: 'Dancing Script', cursive;
+    margin-left: 200px;
+    color: black;
+}
+
+#marquee {
+    font-family: 'Dancing Script', cursive;
+}
+
+#staff {
+
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+
+}
+#acheivment {
+
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+
+}
+#about {
+
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+
+}
+#faq {
+
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+
+}
+#contact {
+
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+
+}
+
+
